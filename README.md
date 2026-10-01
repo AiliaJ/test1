@@ -1,8 +1,2 @@
 # test1
-This is my first commit from github!
-
-This is my first commit from VS Code!
-
-My name is Ailia.
-edit 1
-edit in branch 5
+This will be the demo page repo for CISC 121 F26 HW 2
